@@ -1,11 +1,11 @@
-About r-raveio
-==============
+About r-raveio-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-raveio-feedstock/blob/main/LICENSE.txt)
 
 Home: https://beauchamplab.github.io/raveio/
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-raveio-feedstock/blob/main/LICENSE.txt)
 
 Summary: Includes multiple cross-platform read/write interfaces for 'RAVE' project. 'RAVE'
 stands for "R analysis and visualization of human intracranial electroencephalography
